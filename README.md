@@ -1,7 +1,6 @@
 # Calculator Project
 
-This is a simple calculator project built using HTML, CSS, and JavaScript. It provides basic arithmetic operations like addition, subtraction, multiplication, and division. The calculator has a modern and responsive UI design.
-
+This is a simple calculator project built using HTML, CSS, and JavaScript. It provides basic arithmetic operations like addition, subtraction, multiplication, and division. 
 
 ## Screenshot
 
